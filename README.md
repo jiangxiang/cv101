@@ -5,7 +5,7 @@
 
 * 图像处理基础
 	- [读取与显示，常见颜色空间转换](./notes/section1/图像的读取与保存.ipynb)
-	- [图像加减法和逻辑运算](./notes/section1/图像的加减与逻辑运算.ipynb)
+	- [图像加减法和逻辑运算](./notes/section1/图像的加减法与逻辑运算.ipynb)
 * 图像基本变换
 	- [缩放、裁剪](./notes/section1/图像的裁剪与缩放.ipynb)
 	- [仿射变换和透视变换](./notes/section1/仿射变换与透视变换.ipynb)
