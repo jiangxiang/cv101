@@ -10,9 +10,8 @@
 	- [缩放、裁剪](./notes/section1/图像的裁剪与缩放.ipynb)
 	- [仿射变换和透视变换](./notes/section1/仿射变换与透视变换.ipynb)
 * 边缘与直方图
-	- 边缘检测，包括Sobel、Canny
-	- 二值化处理
-	- 直方图均衡化，CLAHE算法
+    - [直方图均衡化，CLAHE算法](./notes/setction1/直方图.ipybn)
+	- [边缘检测，包括Sobel、Canny](./notes/section1边缘检测.ipybn)
 * 图像滤波
 	- 高斯滤波
 	- 均值滤波
