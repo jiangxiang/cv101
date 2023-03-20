@@ -15,7 +15,7 @@
 	- [中值滤波、均值滤波、高斯滤波](./notes/section1/图像滤波.ipynb)
 	- [腐蚀、腐蚀和开、闭操作](./notes/section1/形态学操作.ipynb)
 * 边缘检测与轮廓检测
-	- [todo:边缘检测，包括Sobel、Canny]()
+	- [边缘检测](./notes/section1/边缘检测.ipynb)
 	- [todo:findContours函数和轮廓特征计算]()
 * 图像特征提取
 	- SIFT
