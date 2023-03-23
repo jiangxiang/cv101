@@ -16,7 +16,9 @@
 	- [腐蚀、腐蚀和开、闭操作](./notes/section1/形态学操作.ipynb)
 * 边缘检测与轮廓检测
 	- [边缘检测](./notes/section1/边缘检测.ipynb)
-	- [todo:findContours函数和轮廓特征计算]()
+	- [轮廓检测](./notes/section1/轮廓检测.ipynb)
+* 角点检测
+    - [角点检测](./notes/section1/角点检测.ipynb)
 * 图像特征提取
 	- SIFT
 	- SURF
