@@ -22,7 +22,7 @@
 * 线面检测
     - [霍夫变换](./notes/section1/霍夫变换.ipynb)
 * 图像特征提取
-	- SIFT
+	- [SIFT](./notes/section1/sift特征.ipynb)
 	- SURF
 	- ORB
 * 模板匹配
