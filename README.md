@@ -23,7 +23,7 @@
     - [霍夫变换](./notes/section1/霍夫变换.ipynb)
 * 图像特征提取
 	- [SIFT](./notes/section1/sift特征.ipynb)
-	- SURF
+	- [SURF](./notes/section1/surf特征.ipynb)
 	- ORB
 * 模板匹配
 	- 模板的制作、匹配算法的实现和匹配结果的评估
