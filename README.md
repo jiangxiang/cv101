@@ -24,7 +24,7 @@
 * 图像特征提取
 	- [SIFT](./notes/section1/sift特征.ipynb)
 	- [SURF](./notes/section1/surf特征.ipynb)
-	- ORB
+	- [ORB](./notes/section1/orb特征.ipynb)
 * 模板匹配
 	- 模板的制作、匹配算法的实现和匹配结果的评估
 * 图像处理基本任务
