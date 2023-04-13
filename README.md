@@ -27,7 +27,7 @@
 	- [ORB](./notes/section1/ORB特征.ipynb)
 * 项目案例
     - [车牌检测与识别](./notes/section1/车牌检测与识别.ipynb)
-    - [todo: 张正友棋盘格相机矫正法](./notes/section1/张正友棋盘格相机矫正法.ipynb)
+    - [张正友棋盘格相机标定](./notes/section1/张正友棋盘格相机标定.ipynb)
 * 分组大作业
     - [视频拼接](./project/视频拼接.ipynb)
 
