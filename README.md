@@ -35,7 +35,8 @@
 * 人脸检测与识别综述
     - [人脸检测与识别综述](./notes/section2/人脸检测与识别综述.ipynb)
 * 人脸检测
-    - [传统方法](./notes/section2/人脸检测传统方法.ipynb) [补充: 支持向量机](./notes/section2/支持向量机.ipynb)
+    - [HOG特征与SVM分类器](./notes/section2/人脸检测传统方法.ipynb) [补充: 支持向量机](./notes/section2/支持向量机.ipynb)
+    - [Haar特征与Adaboost分类器](./notes/section2/人脸检测传统方法2.ipynb)
 * 人脸识别
     - [todo:传统方法](./notes/section2/人脸识别传统方法.ipynb)
     - [todo:深度方法](./notes/section2/人脸识别深度方法.ipynb)
