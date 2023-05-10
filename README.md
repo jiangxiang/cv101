@@ -41,9 +41,7 @@
     - [传统方法](./notes/section2/人脸识别传统方法.ipynb)
     - [深度方法](./notes/section2/人脸识别中的深度学习.ipynb)
 * 人脸检测与识别的扩展
-    - [todo:表情识别](./notes/section2/表情识别方法概述.ipynb)
-    - [todo:3D人脸识别](./notes/section2/3D人脸识别方法概述.ipynb)
-    - [todo:人脸动作检测](./notes/section2/人脸动作识别方法概述.ipynb)
+    - [表情识别](./notes/section2/表情识别方法概述.ipynb)
 
 ### 第三章：目标检测（3-4周）（大作业3）
 * 目标检测基础
