@@ -44,18 +44,18 @@
     - [表情识别](./notes/section2/表情识别方法概述.ipynb)
 
 ### 第三章：目标检测（3-4周）（大作业3）
-* 目标检测基础
-	- 目标检测的问题定义和意义
-	- 评价指标与常用数据集介绍
-* 传统目标检测算法
-	- 基于滑动窗口的目标检测算法
-	- 基于图像分割的目标检测算法
-	- 基于特征点的目标检测算法
-	- 基于区域推荐的目标检测算法（selective search）
-* 深度学习目标检测算法
-	- faster rcnn及其变种
-	- ssd系列
-	- yolo系列
+* 概述
+    - [目标检测概述](./notes/section3/introduction.ipynb)
+* two-stage目标检测算法
+    - [R-CNN](./notes/section3/rcnn.ipynb)
+    - [fast R-CNN](./notes/section3/fastrcnn.ipynb)
+    - [faster R-CNN](./notes/section3/fasterrcnn.ipynb)
+    - [todo: two-stage拓展](./notes/section3/two_stage拓展.ipynb)
+* one-stage目标检测算法
+    - [todo: You Only Look Once](./notes/section3/yolo.ipynb)
+    - [todo: SSD](./notes/section3/ssd.ipynb)
+    - [todo: one-stage拓展](./notes/section3/one_stage拓展.ipynb)
+
 
 ### 第四章：图像分割（3-4周）（大作业4）
 * 图像分割基础
