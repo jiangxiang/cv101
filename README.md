@@ -48,9 +48,8 @@
     - [目标检测概述](./notes/section3/introduction.ipynb)
 * two-stage目标检测算法
     - [R-CNN](./notes/section3/rcnn.ipynb)
-    - [fast R-CNN](./notes/section3/fastrcnn.ipynb)
-    - [faster R-CNN](./notes/section3/fasterrcnn.ipynb)
-    - [todo: two-stage拓展](./notes/section3/two_stage拓展.ipynb)
+    - [todo: R-CNN系列目标检测](./notes/section3/fastrcnn.ipynb)
+    - [todo: two-stage目标检测](./notes/section3/two_stage拓展.ipynb)
 * one-stage目标检测算法
     - [todo: You Only Look Once](./notes/section3/yolo.ipynb)
     - [todo: SSD](./notes/section3/ssd.ipynb)
