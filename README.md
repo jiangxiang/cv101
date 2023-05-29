@@ -51,9 +51,9 @@
     - [todo: R-CNN系列目标检测](./notes/section3/fastrcnn.ipynb)
     - [todo: two-stage目标检测](./notes/section3/two_stage拓展.ipynb)
 * one-stage目标检测算法
-    - [todo: You Only Look Once](./notes/section3/yolo.ipynb)
-    - [todo: SSD](./notes/section3/ssd.ipynb)
-    - [todo: one-stage拓展](./notes/section3/one_stage拓展.ipynb)
+    - [You Only Look Once](./notes/section3/yolo.ipynb)
+* anchor free目标检测算法
+    - [anchor free目标检测](./notes/section3/anchorfree.ipynb)
 
 
 ### 第四章：图像分割（3-4周）（大作业4）
