@@ -48,29 +48,21 @@
     - [目标检测概述](./notes/section3/introduction.ipynb)
 * two-stage目标检测算法
     - [R-CNN](./notes/section3/rcnn.ipynb)
-    - [todo: R-CNN系列目标检测](./notes/section3/fastrcnn.ipynb)
-    - [todo: two-stage目标检测](./notes/section3/two_stage拓展.ipynb)
+    - [fast-rcnn](./notes/section3/fastrcnn.ipynb)
+    - [faster rcnn](./notes/section3/faster rcnn.ipynb)
 * one-stage目标检测算法
     - [You Only Look Once](./notes/section3/yolo.ipynb)
 * anchor free目标检测算法
     - [anchor free目标检测](./notes/section3/anchorfree.ipynb)
 
 
-### 第四章：图像分割（3-4周）（大作业4）
-* 图像分割基础
-	- 定义、评价指标和数据集推荐
-* 传统的图像分割方法
-	- 阈值分割
-	- 边缘检测
-	- 区域生长
-	- 图论
+### 第四章：语义分割（3-4周）（大作业4）
+* 综述:图像分割
+	- [广义图像分割综述](./notes/section4/introduction.ipynb)
 * 深度学习的分割方法
-	- 经典网络结构fcn unet segnet
-	- 损失函数和优化方法
-* 高级图像分割介绍（讨论课）
-	- 实例分割、语义分割等
-	- 多模态输入的分割方法
-	- 一些经典的应用案例（caption等）
+	- [FCN](./notes/section4/fcn.ipynb)
+    - Deeplab
+    - PSPNet
 
 ### 第五章：图像生成（2-3周）（大作业5）
 * 生成模型基础
