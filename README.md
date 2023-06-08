@@ -49,7 +49,7 @@
 * two-stage目标检测算法
     - [R-CNN](./notes/section3/rcnn.ipynb)
     - [fast-rcnn](./notes/section3/fastrcnn.ipynb)
-    - [faster rcnn](./notes/section3/faster rcnn.ipynb)
+    - [faster rcnn](./notes/section3/faster-rcnn.ipynb)
 * one-stage目标检测算法
     - [You Only Look Once](./notes/section3/yolo.ipynb)
 * anchor free目标检测算法
@@ -61,8 +61,9 @@
 	- [广义图像分割综述](./notes/section4/introduction.ipynb)
 * 深度学习的分割方法
 	- [FCN](./notes/section4/fcn.ipynb)
-    - Deeplab
-    - PSPNet
+    - [Deeplab系列](./notes/section4/deeplab.ipynb)
+    - [mask rcnn](./notes/section4/MaskRCNN.ipynb)
+    - [attention系列](./notes/section4/注意力机制.ipynb)
 
 ### 第五章：图像生成（2-3周）（大作业5）
 * 生成模型基础
