@@ -66,27 +66,15 @@
     - [attention系列](./notes/section4/注意力机制.ipynb)
 
 ### 第五章：图像生成（2-3周）（大作业5）
-* 生成模型基础
-	- 生成模型简介
-	- 概率分布与分布采样
-	- 给予概率分布的生成模型
-* GAN模型原理
-	- 模型简介
-	- 生成器与判别器
-	- 损失函数
-	- 变体模型
+* 生成模型概述
+    - [概述](./notes/section5/introduction.ipynb)
+* 对抗生成模型系列
+	- [GAN](./notes/section5/GAN1.ipynb)
+    - [todo:GAN模型及其变种](./notes/section5/GAN2.ipynb)
+* 扩散模型
+    - [todo:diffusion model](./notes/section5/diffusion.ipynb)
 * 生成模型的应用
-	- 图像生成任务
-	- 风格迁移任务
-	- 超分辨率任务
-	- 讨论：局限性与应对方法
-* 扩散模型基础
-	- 扩散模型简介
-	- 马尔可夫随机过程介绍
-	- 高斯过程介绍
-	- NCSN模型原理简介
-	- CLIP模型原理简介
-* 讨论
+	- [todo:图像生成、风格迁移和超分辨率任务](./notes/section5/task.ipynb)
 
 ### 第六章： 计算机视觉应用（1-2周）（期末作业）
 * 姿态估计与手势识别
