@@ -70,31 +70,13 @@
     - [概述](./notes/section5/introduction.ipynb)
 * 对抗生成模型系列
 	- [GAN](./notes/section5/GAN1.ipynb)
-    - [todo:GAN模型及其变种](./notes/section5/GAN2.ipynb)
+    - [GAN模型的一般形式](./notes/section5/GAN2.ipynb)
 * 扩散模型
     - [todo:diffusion model](./notes/section5/diffusion.ipynb)
-* 生成模型的应用
-	- [todo:图像生成、风格迁移和超分辨率任务](./notes/section5/task.ipynb)
 
-### 第六章： 计算机视觉应用（1-2周）（期末作业）
-* 姿态估计与手势识别
-* 医学图像处理
-	- 图像增强
-	- 图像分类
-	- 目标检测
-* 遥感图像处理
-	- 地物分类与识别
-	- 超分辨率
-	- 语义理解
-* 图像检索
-	- 问题定义
-	- 基本流程
-	- 应用场景
-* 三维机器视觉
-	- 建模与重建
-	- 点云数据的数据集，识别和分类
-	- slam导航
-
+### 第六章： 计算机视觉的近期进展（1-2周）（期末作业）
+* 注意力机制和transformer
+    - [self-attention](./notes/section6/self-attention.ipynb)
 
 
 	
