@@ -71,12 +71,12 @@
 * 对抗生成模型系列
 	- [GAN](./notes/section5/GAN1.ipynb)
     - [GAN模型的一般形式](./notes/section5/GAN2.ipynb)
-* 扩散模型
-    - [todo:diffusion model](./notes/section5/diffusion.ipynb)
 
 ### 第六章： 计算机视觉的近期进展（1-2周）（期末作业）
 * 注意力机制和transformer
     - [self-attention](./notes/section6/self-attention.ipynb)
+* 面向视觉任务的transformer
+    - [ViT和swin transformer](./notes/section6/swin-transfomer.ipynb)
 
 
 	
